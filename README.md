@@ -29,5 +29,5 @@ This project relies on the dnspython library. You can install it by running pip 
 
 
 ## Author
-### Mohammed Hisham Moizuddin
+### Mohammed Hisham Moizuddin (University of Illinois, Chicago)
 ### https://www.linkedin.com/in/hishammoizuddin/
